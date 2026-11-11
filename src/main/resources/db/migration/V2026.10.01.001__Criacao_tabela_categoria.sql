@@ -1,0 +1,4 @@
+CREATE TABLE categoria (
+    IDcategoria INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome VARCHAR(60) NOT NULL
+);
